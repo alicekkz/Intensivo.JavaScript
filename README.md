@@ -1,1 +1,2 @@
-# Intensivo.JavaScript
+# Curso de Intensivo JavaScript.
+
