@@ -6,10 +6,10 @@ Alguns projetos explorando JavaScript e um pouco de React, do básico até o ava
 AudioBook do Dom Casmurro - Machado de Assis
 
 - 2º Projeto<br>
-Homepage do site da Apple
+Site da Apple
 
 - 3º Projeto<br>
-Cardápio de restaurante
+Cardápio digital
 
 - 4º Projeto<br>
-Chatbot
+Chatbot em tempo real
