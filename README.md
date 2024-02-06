@@ -12,4 +12,4 @@ Site da Apple
 Cardápio digital
 
 - 4º Projeto<br>
-Chatbot em tempo real
+Chat em tempo real
